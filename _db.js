@@ -8,7 +8,7 @@ let games = [
 
 let authors = [
     {id: '1', name: 'Yasser Farahi', verified: true},
-    {id: '2', name: 'Joseph Farahi', verified: false},
+    {id: '2', name: 'David Allison', verified: false},
     {id: '3', name: 'John Doe', verified: true},
 ]
 
