@@ -55,7 +55,7 @@ export const typeDefs = `#graphql
 // Query is the entry point for the Users, when requesting data, so adding more properties will give them more entry points
 // inside the Query you define where users can start from
 // by not adding ! to the end of a property you make the property optional
-// so query entry points are no optional
+// so query entry points are now optional
 
 //Add arguments to query type review(id: ID!): Review
 
