@@ -1,3 +1,4 @@
+// This is mock data
 let games = [
     {id: '1', title: 'FC EA 24', platform: ['PS5', 'Xbox Series X', 'Mobile', 'PC']},
     {id: '2', title: 'Spider Man 2', platform: ['PS5']},
